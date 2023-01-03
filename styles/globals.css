@@ -448,7 +448,7 @@ padding: 30px 65px;
 }
 .small-images-container{
   display: flex;
-  gap: 30px;
+  gap: 1rem;
   margin-top: 20px;
   
 }
