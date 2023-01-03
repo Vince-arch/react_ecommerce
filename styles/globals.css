@@ -108,6 +108,7 @@ width: 100%;
   transition: transform 0.5s ease;
  color: #324d67;
  border: 0.1px solid 	#DCDCDC ;
+ margin:5px;
 
 }
 .product-card:hover{
@@ -707,7 +708,7 @@ margin-top: 160px;
   .cart-container{
     width: 415px;
   padding: 4px;
-  height: 115vh;
+  height: 117vh;
   }
   .cart-heading{
     margin-top: 35px;
