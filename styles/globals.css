@@ -630,6 +630,12 @@ margin-top: 160px;
 }
 
 @media screen and (max-width:800px) {
+  /*added now*/
+  .small-images-container{
+    display: flex;
+    gap: 15px;
+    margin-top: 20px; 
+  }
  
   .hero-banner-container{
     height: 560px;
