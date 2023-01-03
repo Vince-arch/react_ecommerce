@@ -707,6 +707,7 @@ margin-top: 160px;
   .cart-container{
     width: 415px;
   padding: 4px;
+  height: 115vh;
   }
   .cart-heading{
     margin-top: 35px;
