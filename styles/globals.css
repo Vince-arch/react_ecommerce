@@ -438,6 +438,7 @@ padding: 30px 65px;
    background-color: #ebebeb;
   width: 400px;
   height: 400px;
+  margin-right:40px;
   cursor: pointer;
   transition: .3s ease-in-out;
 }
@@ -447,7 +448,7 @@ padding: 30px 65px;
 }
 .small-images-container{
   display: flex;
-  gap: 10px;
+  gap: 30px;
   margin-top: 20px;
   
 }
